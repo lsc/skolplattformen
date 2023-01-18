@@ -46,7 +46,7 @@
     "hermes-engine": "^0.9.0",
     "i18n-js": "^3.8.0",
     "js-htmlencode": "^0.3.0",
-    "luxon": "^2.1.1",
+    "luxon": "^2.5.2",
     "mockdate": "^3.0.5",
     "moment": "^2.29.1",
     "node-html-parser": "^2.1.0",
